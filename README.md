@@ -2,5 +2,5 @@
 
 This will be a list of other repos that use TDD in some shape or form.
 
-## Vue
-- 
+## Vue 2
+-  https://github.com/lukeajtodd/tdd-in-vue
